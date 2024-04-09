@@ -1,4 +1,4 @@
-# semantic-text-similarity
+# semantic-similarity-analysis
 an easy-to-use interface to fine-tuned BERT models for computing semantic similarity. that's it.
 
 This project contains an interface to fine-tuned, BERT-based semantic text similarity models. It modifies [pytorch-transformers](https://github.com/huggingface/pytorch-transformers) by abstracting away all the research benchmarking code for ease of real-world applicability.
@@ -19,7 +19,7 @@ pip install semantic-text-similarity
 or directly:
 
 ```
-pip install git+https://github.com/AndriyMulyar/semantic-text-similarity
+pip install git+https://github.com/topdev0215/semantic-text-similarity
 ```
 
 # Use

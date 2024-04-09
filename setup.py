@@ -35,7 +35,7 @@ setup(
     packages=packages,
     url='https://github.com/AndriyMulyar/semantic-text-similarity',
     author=__authors__,
-    author_email='contact@andriymulyar.com',
+    author_email='a.corradini0215@gmail.com',
     keywords='',
     classifiers=[
         'Development Status :: 4 - Beta',

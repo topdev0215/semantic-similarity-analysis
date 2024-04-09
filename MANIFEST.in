@@ -1,3 +1,0 @@
-# STS data
-recursive-include semantic_text_similarity/data/sts_b *
-
